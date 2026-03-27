@@ -1,4 +1,4 @@
-# Hi, I'm Haikal 👋
+# Hi, I'm Grinzo 👋
 
 A self-taught web developer focused on building clean and structured web pages using **HTML** & **CSS**.
 
